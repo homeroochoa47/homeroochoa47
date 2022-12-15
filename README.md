@@ -7,7 +7,7 @@
 <p>My goal is to have a career in software development. I try my best every day to do some coding, even if it's just for a bit, and my aspiration is to be a part of a team of passionate and talented engineers with whom I learn and share my own passion with.</p>
 
 - 🔭 I’m currently working on front-end (with React) and UI design for my **full stack app, ForTheRecord**
-- 🌱 I’m currently learning and refining my React and HTML skills, as well as the ChakraUI library. I'm also building my personal website!
+- 🌱 That said I'm learning and refining my React and HTML skills, as well as the ChakraUI library. I'm also building my personal website!
 - 💬 Ask me about music! I'm a huge music person and I can talk music all day long,
 - 📫 Reaching out? Send me an email! **homeroochoa47@gmail.com**
 
