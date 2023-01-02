@@ -17,7 +17,7 @@
  
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=py,django,js,react,html,css,bootstrap,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,django,js,react,html,css,bootstrap,postgres,docker)](https://skillicons.dev)
 
  ### Badges
 
