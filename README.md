@@ -6,7 +6,7 @@
  
 <p>My goal is to have a career in software development. I try my best every day to do some coding, even if it's just for a bit, and my aspiration is to be a part of a team of passionate and talented engineers with whom I learn and share my own passion with.</p>
 
-- 🔭 I’m currently working on learning docker and hosting my sites within a virtual machine**
+- 🔭 I’m currently working on learning **docker** and hosting my sites **within a virtual machine**
 - 🌱 That said I'm also refining my React and HTML skills. Check out how thats coming along in my pinned repos!
 - 💬 Ask me about music! I'm a huge music person and I can talk music all day long,
 - 📫 Reaching out? Send me an email! **homeroochoa47@gmail.com**
