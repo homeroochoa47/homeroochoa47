@@ -6,8 +6,8 @@
  
 <p>My goal is to have a career in software development. I try my best every day to do some coding, even if it's just for a bit, and my aspiration is to be a part of a team of passionate and talented engineers with whom I learn and share my own passion with.</p>
 
-- 🔭 I’m currently working on learning **docker** and hosting my projects **within a virtual machine**(AWS EC2). As a result of that I've been working with NGNIX, gunicorn, and AWS ECR.
-- 🌱 That said I'm also refining my React and HTML skills. Check out how thats coming along in my pinned repos!
+- 🔭 I’m currently working on making a portfolio as I embark on a journey to become a freelance web developer.
+- 🌱 I'm looking to become a freelance full-stack web developer with a focus on React frontends paired with a Wagtail/Django CMS!
 - 💬 Ask me about music! I'm a huge music person and I can talk music all day long.
 - 📫 Reaching out? Send me an email! **homeroochoa47@gmail.com**
 
