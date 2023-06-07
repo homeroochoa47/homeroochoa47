@@ -2,7 +2,7 @@
  
 <a href="https://www.linkedin.com/in/homero-ochoa-047/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
  
-<p>I'm a Materials Engineer that discovered a passion for programming after graduating from college and working in the aerospace industry with my degree. Since then I've become a self-taught web developer doing freelance work for small businesses in various industries. I currently use a Jamstack structure for my sites consisting of **NextJS** on the frontend and **Sanity CMS** on the backend. 
+<p>I'm a Materials Engineer that discovered a passion for programming after graduating from college and working in the aerospace industry with my degree. Since then I've become a self-taught web developer doing freelance work for small businesses in various industries. I currently use a Jamstack structure for my sites consisting of NextJS on the frontend and Sanity CMS on the backend. 
 
 I currently manage my whole development process from start to finish, beginning with designs in Figma all the way through hosting and management for clients. It's a good amount of work, but I find the variety in roles to be a ton of fun to work on. 
 </p>
